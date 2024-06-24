@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rioniscult.github.io/sitemap
+Sitemap: https://rioniscult.github.io/app/sitemap
+Sitemap: https://rioniscult.github.io/assets/sitemap
+Sitemap: https://rioniscult.github.io/css/sitemap
+Sitemap: https://rioniscult.github.io/includes/sitemap
+Sitemap: https://rioniscult.github.io/item/sitemap
+Sitemap: https://rioniscult.github.io/src/sitemap
